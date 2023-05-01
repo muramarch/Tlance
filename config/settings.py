@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 MY_APPS = [
-    'apps.users',
+    'apps.account',
 ]
 
 THIRDS_PARTY_APPS = [
